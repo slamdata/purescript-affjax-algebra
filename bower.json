@@ -1,0 +1,22 @@
+{
+  "name": "purescript-affjax-algebra",
+  "homepage": "https://github.com/slamdata/purescript-affjax-algebra",
+  "description": "An algebra for purescript-affjax requests.",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/slamdata/purescript-affjax-algebra.git"
+  },
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "output",
+    "test",
+    "bower.json",
+    "package.json"
+  ],
+  "dependencies": {
+    "purescript-affjax": "^0.13.1"
+  }
+}
