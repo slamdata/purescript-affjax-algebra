@@ -17,6 +17,6 @@
     "package.json"
   ],
   "dependencies": {
-    "purescript-affjax": "^1.1.0"
+    "purescript-affjax": "^2.0.0"
   }
 }
